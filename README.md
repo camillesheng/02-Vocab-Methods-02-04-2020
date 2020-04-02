@@ -10,7 +10,7 @@ https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture3.html
 
 Slides to follow along:
 
-[FILL]
+https://docs.google.com/presentation/d/1_sbS5nk9ePXI_ijXxGSlydgIRzTBAplrLtMrxuMO2GQ/edit?usp=sharing
 
 Gradescope quiz (due by 10am day of next lecture, in this case 10am April 2):
 
