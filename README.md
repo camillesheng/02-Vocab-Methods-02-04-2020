@@ -1,5 +1,7 @@
 Zoom link: https://ucsd.zoom.us/s/797074102
 
+Zoom recording: https://ucsd.zoom.us/recording/detail?meeting_id=%2Barap6osRoyfPkWRRHe92A%3D%3D
+
 All videos available here:
 
 https://drive.google.com/drive/u/1/folders/1Bxrh-E9Dz-BJVh_n7Il7zB72huAavFNf
