@@ -14,9 +14,9 @@ Slides to follow along:
 
 https://docs.google.com/presentation/d/1_sbS5nk9ePXI_ijXxGSlydgIRzTBAplrLtMrxuMO2GQ/edit?usp=sharing
 
-Gradescope quiz (due by 10am day of next lecture, in this case 10am April 2):
+Gradescope quiz (due by 10am day of next lecture, in this case 10am April 7):
 
-[COMING SOON!]
+https://www.gradescope.com/courses/106159/assignments/430654
 
 Reminder to check the course web site for other deadlines:
 
