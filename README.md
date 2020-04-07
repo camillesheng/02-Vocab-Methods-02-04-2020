@@ -21,6 +21,6 @@ https://www.gradescope.com/courses/106159/assignments/430654
 Reminder to check the course web site for other deadlines:
 
 https://ucsd-cse11-s20.github.io/
-
+[![Run on Repl.it](https://repl.it/badge/github/ucsd-cse11-s20/02-Vocab-Methods-02-04-2020)](https://repl.it/github/ucsd-cse11-s20/02-Vocab-Methods-02-04-2020)
 
 
